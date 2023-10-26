@@ -34,16 +34,16 @@ The UK Food Standards Agency evaluates various establishments across the United 
 ## Part 3: Explloratory Analysis
 1. Which establishments have a hygiene score equal to 20?
 
-![1 1](https://github.com/dilqvl62/nosql-challenge/assets/107519883/74ff7997-d3ea-46af-bbe1-02fb60659573)
+![1 2](https://github.com/dilqvl62/nosql-challenge/assets/107519883/533eb449-4ef2-4457-9fd5-1388e27b27b2)
 
 2. Which establishments in London have a RatingValue greater than or equal to 4?
 
-![2 2](https://github.com/dilqvl62/nosql-challenge/assets/107519883/4d85e417-593c-4945-9546-56aa815f6891)
+![2 3](https://github.com/dilqvl62/nosql-challenge/assets/107519883/05f4473f-abb0-40a4-9610-47346b2862b4)
 
 3.  What are the top 5 establishments with a RatingValue rating value of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
 
-![3 3](https://github.com/dilqvl62/nosql-challenge/assets/107519883/bf145c23-07f6-46a7-a836-fce1057f5bf3)
+![3 4](https://github.com/dilqvl62/nosql-challenge/assets/107519883/3d2be9f4-ecf0-4ea0-a49f-b3a229bd4611)
 
 4.   How many establishments in each Local Authority area have a hygiene score of 0?
 
-![4 4](https://github.com/dilqvl62/nosql-challenge/assets/107519883/f399279c-c99d-4138-99db-dafe1b4fea43)
+![4 5](https://github.com/dilqvl62/nosql-challenge/assets/107519883/d702e26c-3d4c-45d9-9da1-a0a5eff7d232)
