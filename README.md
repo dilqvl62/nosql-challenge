@@ -4,7 +4,7 @@ The UK Food Standards Agency evaluates various establishments across the United 
 
 # Dataset:
 
-[uk_food establishments](https://github.com/dilqvl62/nosql-challenge/tree/main/Resources)
+[Uk_food establishments](https://github.com/dilqvl62/nosql-challenge/tree/main/Resources)
 
 # Objectives
 
