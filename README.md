@@ -18,7 +18,7 @@ The UK Food Standards Agency evaluates various establishments across the United 
    * List the collection(s) in the database to ensure that establishments is there.
    * Find and display one document in the establishment collection using find_one and display with pprint
 
-5. Assing the establishment collection to a variable to prepare the collection for use:
+5. Adding the establishment collection to a variable to prepare the collection for use:
 
 ## Part2: Update the Database 
 
